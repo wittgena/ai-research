@@ -68,7 +68,7 @@ This shift entails not just technical modifications, but a reconfiguration of:
 
 ---
 
-## 4. Phase Interpretation of DB Architectures *(LMP-Theoria Kernel)*
+## 4. Phase Interpretation of DB Architectures *(LMP-Theoria Perspective)*
 
 This section applies **LMP-Theoria** to reinterpret database functions  
 not merely as technical components, but as **ontological structures** within agentic judgment loops.

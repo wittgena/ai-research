@@ -72,7 +72,7 @@ ZK proofs rely on this property to allow a **prover** to demonstrate knowledge o
 
 ---
 
-## 5. Phase-Theoria Analysis and Future Outlook
+## 5. LMP-Theoria Analysis and Future Outlook
 
 ### 5.1 Topological Analysis — LMP-Theoria Perspective
 
