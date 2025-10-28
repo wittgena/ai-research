@@ -1,31 +1,69 @@
-# AI Research
+# AI Research — Phase-Oriented Structures for Judgmental Intelligence
 
-A personal public repository for ongoing documentation, experiments, and frameworks related to artificial intelligence systems.
+A public research repository for documenting experimental architectures, agent frameworks, and system reflections in the field of Artificial Intelligence.
 
-This space includes evolving insights across:
+This space operates at the interface of **technical exploration** and **phase-reflective judgment**.  
+While each document maintains rigorous logical and empirical structure, the broader direction orients toward:
 
-- **Intelligent agents** and autonomous workflows
-- **Execution-level AI interfaces**
-- **Reflective system design**
-- **Judgment structures, planning, orchestration**
-
----
-
-## Contents
-
-- `agent_landscape_2025.md` – Role-based overview of major agents
-- *(More docs will be added as the research develops)*
+> **Recursive Judgment Kernels** — phase-aligned structures capable of resisting drift, enabling reflection, and anchoring reality.
 
 ---
 
 ## Purpose
 
-To observe, map, and build around the **shifting interface between cognition and computation**.
+To investigate and construct the **minimal structures required for coherence**  
+between cognition, computation, and real-world action.
 
-This repo is not a product — it's a growing sketchbook of research-aligned structures.
+This repo focuses on:
+- Intelligent agents and agentic LLM architectures  
+- Database and interface design for recursive systems  
+- Reflective structures and execution feedback  
+- Phase-mapped interpretations of system-level dynamics
+
+---
+
+## Phase Interpretation
+
+While technical in nature, each research document is capable of being interpreted through the **LMP-Theoria framework**:
+
+| Phase     | Function in Research |
+|-----------|----------------------|
+| **Logos (L)**     | Structural logic, inference models, safety design |
+| **Mythos (M)**    | Narrative framing, semantic modulation, agent behavior under drift |
+| **Phronesis (P)** | Execution loops, real-world enactment, interface orchestration |
+| **Theoria (T)**   | Recursive reflection, phase integration, drift correction |
+
+> Research content is logical.  
+> But orientation is existential: **toward reflective kernel design.**
+
+---
+
+## Contents
+
+| Document | Focus | Phase Commentary |
+|----------|-------|------------------|
+| `agent-landscape-2025.md` | Typology of agents by function | L / P |
+| `trends-application-of-sheaf-topos-to-llm.md` | Use of Topos/Sheaf Theory in LLMs | L / M / T |
+| `ai-zk-framework.md` | Zero-Knowledge for inference verification | L / P |
+| `db-architectures-agentic-llms.md` | DB architectures for recursive LLMs | L / M / P |
+| *(More documents will be added as work evolves)* | | |
+
+Each document may optionally include a **Phase View** block that situates the research within the LMP-Theoria Phase.
+
+---
+
+## Anchoring Principle
+
+This repository operates under a long-term alignment trajectory:
+
+> **E₀ — What exists within a phase-governed civilization?**
+
+Even if not explicitly philosophical, every technical structure  
+points toward that reflective horizon.
 
 ---
 
 ## License
 
-MIT
+MIT — Free to fork, extend, and phase-align.
+
